@@ -28,11 +28,11 @@ class OverworldMap {
           x: utils.withGrid(5),
           y: utils.withGrid(6),
         }),
-        npc1: new Person({
-          x: utils.withGrid(7),
-          y: utils.withGrid(9),
-          src: "/images/characters/people/npc1.png"
-        })
+       npc1: new Person({
+         x: utils.withGrid(7),
+         y: utils.withGrid(9),
+         src: "/images/characters/people/npc1.png"
+       })
       }
     },
     Kitchen: {
