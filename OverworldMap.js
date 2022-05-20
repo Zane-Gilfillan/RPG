@@ -40,17 +40,17 @@ class OverworldMap {
       upperSrc: "/images/maps/KitchenUpper.png",
       gameObjects: {
         hero: new GameObject({
-          x: 3,
+          x: 4,
           y: 5,
         }),
         npcA: new GameObject({
-          x: 9,
-          y: 6,
+          x: 2,
+          y: 7,
           src: "/images/characters/people/npc2.png"
         }),
         npcB: new GameObject({
-          x: 10,
-          y: 8,
+          x: 3,
+          y: 7,
           src: "/images/characters/people/npc3.png"
         })
       }
